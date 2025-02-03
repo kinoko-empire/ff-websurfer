@@ -1,0 +1,14 @@
+{
+  "name": "ff-websurfer",
+  "version": "1.0.0",
+  "description": "a web extension to visit a random site from your bookmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
