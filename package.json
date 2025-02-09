@@ -4,7 +4,9 @@
   "description": "a web extension to visit a random site from your bookmarks",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:dev": "tsc -w",
+    "dev": "node build/index.js"
   },
   "author": "",
   "license": "ISC",
