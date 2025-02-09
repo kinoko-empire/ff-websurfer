@@ -1,12 +1,13 @@
 {
   "manifest_version": 2,
-  "name": "Borderify",
+  "name": "Websurfer",
   "version": "1.0",
 
   "description": "Adds a red border to all webpages matching mozilla.org.",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "48": "src/icons/websurfer-100.png",
+    "96": "src/icons/websurfer-1600.png"
   },
 
   "content_scripts": [
